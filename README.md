@@ -1,5 +1,5 @@
 # RESTful API using Express.js and MongoDB
-##This repository contains code for a RESTful API built using Express.js and MongoDB. The API allows you to perform CRUD (Create, Read, Update, Delete) operations on articles.
+## This repository contains code for a RESTful API built using Express.js and MongoDB. The API allows you to perform CRUD (Create, Read, Update, Delete) operations on articles.
 
 ## Features
 - Retrieve all articles
