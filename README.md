@@ -17,7 +17,7 @@
 ## Getting Started
 To run the API locally, follow these steps:
 
-Clone the repository: git clone <repository-url>
+1. Clone the repository: git clone <repository-url>
 Install the dependencies: npm install
 Make sure MongoDB is running on your local machine.
 Update the MongoDB connection URL in the code if needed.
